@@ -4,9 +4,9 @@
   "intro": "{{ intro }}",
   "description": "{{ description }}",
   "examplePictures": [
-    "./assets/example/1.png",
+    "./assets/example/1.png"
   ],
-  "pluginID": "{{ dirname }}",
+  "pluginID": "{{ pluginDirName }}",
   "developer": {
     "id": "{{ devId }}",
     "secret": "{{ devSecret }}"
