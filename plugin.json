@@ -1,5 +1,12 @@
 {
   "name": "{{ pluginName }}",
+  "version": "1.0.0",
+  "intro": "{{ intro }}",
+  "description": "{{ description }}",
+  "examplePictures": [
+    "./assets/example/1.png",
+  ],
+  "pluginID": "{{ dirname }}",
   "developer": {
     "id": "{{ devId }}",
     "secret": "{{ devSecret }}"

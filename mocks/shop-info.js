@@ -1,8 +1,3 @@
-/*
- * @Date: 2020-07-15 11:38:35
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-07-15 11:44:31
- */ 
 module.exports = {
   id: '0',
   shopName: '餐厅门店(测试专用)', 
