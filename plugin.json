@@ -17,8 +17,13 @@
     { "path": "index" },
     { "path": "rank" }
   ],
+  "hasConfigView": {{ hasConfigView }},
   "database": {
-    "env": "development",
-    "collection": [{{ collectionNames }}]
+    "development": {
+      "collection": []
+    },
+    "production": {
+      "collection": []
+    }
   }
 }
