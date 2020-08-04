@@ -12,4 +12,4 @@ class {{ pluginID }} extends EL.MenuProgramme {
   }
 }
 
-mpClass.entry = {{ pluginID }};
+module.entry = {{ pluginID }};
