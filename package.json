@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev:online": "el dev online",
-    "dev:offline": "el dev offline"
+    "dev:offline": "el dev offline",
+    "publish-plugin": "el publish"
   },
   "author": "",
   "license": "MIT",

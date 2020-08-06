@@ -11,8 +11,8 @@
     "id": "{{ devId }}",
     "secret": "{{ devSecret }}"
   },
-  "icon": "./icon.png",
-  "cover": "./cover.png",
+  "icon": "./assets/icon.png",
+  "cover": "./assets/cover.png",
   {{ if type !== 'offline' }}
   "onlinePages": [
     { "path": "index" },
