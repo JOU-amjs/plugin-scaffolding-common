@@ -13,6 +13,7 @@
   },
   "icon": "./assets/icon.png",
   "cover": "./assets/cover.png",
+  "union": {{ union }},
   {{ if type !== 'offline' }}
   "onlinePages": [
     { "path": "index" },
