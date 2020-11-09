@@ -20,7 +20,7 @@
     { "path": "rank" }
   ],
   {{ /if }}
-  "hasConfigView": {{ hasConfigView }},
+  "hasConfigView": true,
   "database": {
     "development": {
       "collection": []
