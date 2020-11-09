@@ -1,8 +1,3 @@
-/*
- * @Date: 2020-07-18 14:06:49
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-08-25 11:43:31
- */ 
 module.exports = {
   1: {
     id: 1,

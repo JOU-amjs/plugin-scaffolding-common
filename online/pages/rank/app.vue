@@ -1,8 +1,3 @@
-<!--
- * @Date: 2020-04-09 15:15:50
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-07-13 16:22:15
- -->
 <template>
   <div>
     <header :title="title" />

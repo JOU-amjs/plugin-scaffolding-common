@@ -1,8 +1,3 @@
-/*
- * @Date: 2020-07-18 14:06:33
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-09-22 12:00:02
- */ 
 module.exports = {
   userId: 132412,
   nickname: '飞翔的小鸟',

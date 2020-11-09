@@ -1,8 +1,3 @@
-<!--
- * @Date: 2020-05-11 10:24:47
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-07-13 09:42:56
- -->
 <template>
   <div class="component">
     <tab-wrap editable @edit="tabEdit">

@@ -1,8 +1,3 @@
-/*
- * @Date: 2020-07-13 10:08:28
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-07-15 15:58:04
- */ 
 import page from './index.vue';
 import { routes, beforeEach } from './routes';
 import storeOne from './store/store-one';

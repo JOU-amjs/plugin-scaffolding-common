@@ -1,9 +1,3 @@
-/*
- * @Date: 2020-05-28 09:00:51
- * @LastEditors: JOU(wx: huzhen555)
- * @LastEditTime: 2020-09-21 21:37:15
- */ 
-
 /**
  * @description: 支付成功的回调函数，此代码会在服务端的支付回调中运行，运行完成后需返回true表示执行成功，否则会多次调用
  * @author: JOU(wx: huzhen555)
